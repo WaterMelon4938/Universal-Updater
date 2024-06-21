@@ -40,5 +40,11 @@
 		"author": "Pk11",
 		"url": "https://github.com/Epicpkmn11/WordleDS/raw/mods/unistore/wordle-ds.unistore",
 		"description": "Mods for Wordle DS"
+	},
+	"Minecraft 3DS UniStore": {
+		"title": "Minecraft 3DS UniStore",
+		"author": "susbaconhairman",
+		"url": "https://github.com/Minecraft-3DS-Community/minecraft-3ds-unistore/raw/main/minecraft-3ds.unistore",
+		"description": "This is a UniStore for Minecraft: New Nintendo 3DS Edition custom content"
 	}
 }
